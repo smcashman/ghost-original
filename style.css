@@ -1,0 +1,50 @@
+.wrapper{
+	width:100%;
+}
+
+.ghostPortraits{
+	width:400px;
+	margin: 0 auto;
+	float: left;
+	text-align:center;
+}
+
+li{
+
+	width:150px;
+	margin: 0 auto;
+	float: right;
+}
+
+li:hover{
+	cursor:pointer;
+	text-decoration: underline;
+}
+
+ul{
+	list-style-type: none;
+}
+
+
+.header{
+	margin-bottom:50px;
+	border-bottom:2px solid #a6a6a6;
+}
+
+button{
+	border:1px solid black;
+	float:left;
+	width:200px;
+	height:auto;
+}
+
+button:hover{
+	background: linear-gradient(to right, green, blue);
+	cursor:pointer;
+}
+
+.about{ 
+	margin-top:20em;
+	width:100%;
+	text-align: left;
+}
